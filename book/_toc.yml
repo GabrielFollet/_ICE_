@@ -14,7 +14,7 @@ parts:
       - file: Part_2/NN_NL_brute_force.ipynb
       - file: Part_2/Prediction_of_ice_thickness.ipynb
       - file: Part_2/Data_viewer2.ipynb
-      - file: Part_2/Variable sensitivity analysis/ipynb
+      - file: Part_2/Variable sensitivity analysis.ipynb
       - file: Part_2/Mude_slides(Project 12-2023Q2).ipynb
 
     
