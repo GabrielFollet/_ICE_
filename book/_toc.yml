@@ -16,6 +16,9 @@ parts:
       - file: Part_2/Data_viewer2.ipynb
       - file: Part_2/Variable sensitivity analysis.ipynb
       - file: Part_2/Mude_slides(Project 12-2023Q2).ipynb
-
+    - file: Part_3/intro_video.md
+      sections:
+      - file: Part_3/gif_maker.ipynb
+      - file: Part_3/Ice_cam.ipynb 
     
     - file: credits.md
