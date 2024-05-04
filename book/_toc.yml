@@ -6,6 +6,8 @@ parts:
     chapters:
     - file: Part_1/overview.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: Part_1/text_and_code.ipynb
+    chapter:
     - file: references.md
-    - file: credits.md
+      sections:
+      - file: credits.md
