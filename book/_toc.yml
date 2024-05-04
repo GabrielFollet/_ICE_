@@ -6,6 +6,7 @@ parts:
     chapters:
     - file: Part_1/Data.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: Part_1/Getting_the_data.ipynb
+      - file: Part_1/Exploring_the_df.ipynb
     - file: references.md
     - file: credits.md
