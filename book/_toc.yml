@@ -3,7 +3,9 @@ root: intro.md
 
 parts:
   - caption: Contents
+    chapters:
     - file: Part_1/overview.md
+      sections:
       - file: some_content/text_and_code.ipynb
     - file: references.md
     - file: credits.md
