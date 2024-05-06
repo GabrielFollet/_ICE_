@@ -27,8 +27,8 @@ Given that we are building this book from scratch we have a few options regardin
 :class: dropdown
 Similar to the option before, but as the title implies it is MUDE adjacent in the sense that we do not directly references the weekly mude schedule, but we use the book as way to show how can we apply the Mude concepts to a complex problem.
 ```
-```{admonition} 
-:class: dropdown Collaborative Challenge
+```{admonition} Collaborative Ice Challenge
+:class: dropdown 
 We can set up the notebook as basically a very detail README/ Example page for the repo. This notebook would be staring page for anyone that want to get involve ( or simply curious) with the ICE Challenge.
 ```
 ## Authors
