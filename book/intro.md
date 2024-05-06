@@ -35,7 +35,7 @@ We can set up the notebook as basically a very detail README/ Example page for t
 Gabriel Follet
 
 ## Acknowledges
-Put here everyone that participated in the ice challenge ( copy ame form wsp group)
+Put here everyone that participated in the ice challenge ( copy name form wsp group)
 
 This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 

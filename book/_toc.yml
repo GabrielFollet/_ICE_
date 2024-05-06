@@ -3,6 +3,7 @@ root: intro.md
 
 parts:
   - caption: Contents
+      - file: intro_video.md
     chapters:
     - file: Part_1/Data.md
       sections:
