@@ -18,18 +18,20 @@ Given that we are building this book from scratch we have a few options regardin
 
 ```{admonition} Integration with MUDE 
 :class: dropdown
- We develop the textbook in a 1-to-1 correspondence with the MUDE Textbook/schedule. Applying the concept learnt that week in  the ice classic setting/framework.
+ We develop the textbook in a 1-to-1 correspondence with the MUDE Textbook/schedule. Applying the concept of that week in  the ice classic setting/framework.
 
- We can integrate the challenge as part of either the individual assignment or though the group project.
+ We can integrate the challenge as part of either the individual assignment or through the group project.
 ```
 
 ```{admonition} MUDE Sidequest
 :class: dropdown
-Similar to the option before, but as the title implies it is MUDE adjacent in the sense that we do not directly references the weekly mude schedule, but we use the book as way to show how can we apply the Mude concepts to a complex problem.
+Similar to the option before, but as the title implies,  MUDE adjacent in the sense that we do not directly reference the weekly MUDE schedule, but we use the book as way to show how can we apply the MUDE concepts to a complex problem.
 ```
-```{admonition} Collaborative Ice Challenge
+
+```{admonition} Collaborative Notebook
 :class: dropdown 
-We can set up the notebook as basically a very detail README/ Example page for the repo. This notebook would be staring page for anyone that want to get involve ( or simply curious) with the ICE Challenge.
+We can set up the notebook as basically a very detail README/ Example page for the repo. This notebook would be the starting page for anyone that wants to get involve ( or simply curious) with the ICE Challenge.
+Probable start as a CEG effort and then, expand to other faculties/groups.
 ```
 ## Authors
 Gabriel Follet
